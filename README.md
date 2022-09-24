@@ -1,1 +1,1 @@
-# Implementation of Generative adversarial network
+# PyTorch implementation of GAN (Generative Adversarial Network) 
