@@ -1,1 +1,1 @@
-# GAN
+# Implementation of Generative adversarial network
