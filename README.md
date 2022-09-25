@@ -1,5 +1,5 @@
 # GAN
-Implementation of gan
+Implementation of Generative Adversarial Nets
 
 
 ![0](https://user-images.githubusercontent.com/107670144/192149872-0761ffbc-f43c-4fab-abf9-59dc07d275d5.png)
@@ -7,4 +7,4 @@ Implementation of gan
 ![100000](https://user-images.githubusercontent.com/107670144/192149879-1ac667d7-3dd8-4937-bf9c-4911a2a8dbe2.png)
 ![187200](https://user-images.githubusercontent.com/107670144/192149882-d1ab4470-31e5-47df-8f1e-a93910c8f124.png)
 
-200 epochs
+Trained on MNIST dataset, 200 epochs
