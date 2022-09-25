@@ -6,3 +6,5 @@ Implementation of gan
 ![10000](https://user-images.githubusercontent.com/107670144/192149878-9b8d5372-5f0a-407c-ac6c-44da05ddea97.png)
 ![100000](https://user-images.githubusercontent.com/107670144/192149879-1ac667d7-3dd8-4937-bf9c-4911a2a8dbe2.png)
 ![187200](https://user-images.githubusercontent.com/107670144/192149882-d1ab4470-31e5-47df-8f1e-a93910c8f124.png)
+
+200 epochs
