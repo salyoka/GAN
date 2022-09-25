@@ -1,4 +1,4 @@
-#GAN
+# GAN
 Implementation of gan
 
 
