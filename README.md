@@ -1,5 +1,5 @@
 # GAN
-Implementation of Generative Adversarial Nets
+Implementation of Generative Adversarial Networks
 
 
 ![0](https://user-images.githubusercontent.com/107670144/192149872-0761ffbc-f43c-4fab-abf9-59dc07d275d5.png)
