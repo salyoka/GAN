@@ -161,7 +161,7 @@ for epoch in range(n_epochs):
             "[Epoch %d/%d] [Batch %d/%d] [D loss: %f] [G loss: %f]"
             % (epoch, n_epochs, i, len(dataloader), d_loss.item(), g_loss.item())
         )
-
+        # save outputs of generator 
         batches_done = epoch * len(dataloader) + i
         if batches_done % sample_interval == 0:
             save_image(gen_imgs.data[:25], "images/%d.png" % batches_done, nrow=5, normalize=True)
